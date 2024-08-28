@@ -3,6 +3,8 @@
 
 <hr>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonxeo29&show_icons=true&theme=radical)
+
 ### 🏆 AWARD 
 1️⃣ 2022.07.01 💙 2022년 동남권 SW 품질캠프 - 대상 (부산정보산업진흥원장상) <br>
 2️⃣ 2022.12.08 💚 2022년 SW테스트 경진대회 - 최우수상 (정보통신산업진흥원장상) <br>
@@ -18,7 +20,7 @@
 <hr>
 
 ### 🛒 EXPERIENCE 
-🖥 소프트웨어교육봉사 80시간 ⬆ <br>
+🖥 Software Education Service 80hour ⬆ <br>
 🖥 Hamster-Robot, Arduino, Scratch, Ringbit-car Etc.
 
 <hr>
