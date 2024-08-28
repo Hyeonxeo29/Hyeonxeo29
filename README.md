@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hyeon%20Seo&fontSize=90" />
-
 ### 🏫 SCHOOL 
 ### 동의대학교 컴퓨터소프트웨어공학과 4학년 재학 
 
