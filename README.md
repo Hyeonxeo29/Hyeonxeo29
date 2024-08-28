@@ -1,9 +1,9 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonxeo29&show_icons=true&theme=radical)
+
 ### 🏫 SCHOOL 
 ### 동의대학교 컴퓨터소프트웨어공학과 4학년 재학 
 
 <hr>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonxeo29&show_icons=true&theme=radical)
 
 ### 🏆 AWARD 
 1️⃣ 2022.07.01 💙 2022년 동남권 SW 품질캠프 - 대상 (부산정보산업진흥원장상) <br>
